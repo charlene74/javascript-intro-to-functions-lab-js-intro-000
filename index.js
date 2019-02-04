@@ -18,8 +18,8 @@ function sayHiToGrandma (string) {
   var cant = "I can't hear you!";
   var can = "YES INDEED!";
   var love = "I love you, too.";
-  if (string.toLowerCase(string)===string) {
-    return lowercase;
+  if (string.toLowerCase(string) ===s tring) {
+    return cant;
   }
 
 
