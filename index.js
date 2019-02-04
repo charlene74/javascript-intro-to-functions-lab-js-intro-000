@@ -21,7 +21,4 @@ function sayHiToGrandma (string) {
   if (string.toLowerCase(string) === string) {
     return cant;
   }
-
-
-  }
 }
